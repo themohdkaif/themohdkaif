@@ -146,8 +146,6 @@ Palm-vein biometric payment authentication prototype focused on financial inclus
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=themohdkaif&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&title.fontSize=15&text.fontSize=12"/>
-
 </div>
 
 ---
@@ -156,20 +154,14 @@ Palm-vein biometric payment authentication prototype focused on financial inclus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=themohdkaif&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=cc99ff&icon_color=cc99ff&text_color=e0ccff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themohdkaif&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=cc99ff&text_color=e0ccff"/>
+
 
 <img src="https://streak-stats.demolab.com?user=themohdkaif&theme=radical&hide_border=true&background=0f0c29&ring=cc99ff&fire=facc15&currStreakLabel=cc99ff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=themohdkaif&theme=react-dark&bg_color=0f0c29&color=cc99ff&line=9933ff&point=facc15&hide_border=true" width="100%"/>
 
 </div>
-
-
-
-
 
 ---
 
