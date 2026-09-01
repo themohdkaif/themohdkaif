@@ -22,38 +22,48 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="34%" valign="top" align="center">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js" />
-
-<br/><br/>
-
-**Role** — Full-Stack Software Engineer
-**Focus** — AI-Integrated Web Applications
-**Institution** — Dr. D.Y. Patil Institute of Technology, Pune
-**Status** — 🟢 Open to SDE / Full-Stack Roles
+### 8.74
+**CGPA / 10**
 
 </td>
-<td width="66%" valign="top">
+<td align="center" width="25%">
 
-| Metric | Detail |
-|:--|:--|
-| 🎓 **Education** | B.E. Computer Engineering (2023 – 2027) |
-| 📈 **CGPA** | 8.74 / 10 |
-| 💻 **Core Stack** | MongoDB, Express.js, React.js, Node.js |
-| 🤖 **AI/GenAI** | Gemini API integration, computer vision (MediaPipe) |
-| 🧠 **CS Fundamentals** | Data Structures & Algorithms, OOP, OS, DBMS |
-| 🧩 **Problem Solving** | 250+ DSA problems solved on LeetCode |
-| 🤝 **Practices** | Agile/Scrum, Git version control, code reviews |
+### 250+
+**DSA Problems Solved**
 
-**DSA Progress**
-`[████████████████████░] 250+ problems solved`
+</td>
+<td align="center" width="25%">
+
+### 6
+**Shipped Projects**
+
+</td>
+<td align="center" width="25%">
+
+### 10
+**Hackathon Podiums**
 
 </td>
 </tr>
 </table>
+
+</div>
+
+Final-year Computer Engineering student who builds full-stack, AI-integrated web applications end to end — from MongoDB schema design through to polished React interfaces. Comfortable moving between product engineering (shipping features in Agile sprints) and applied AI (wiring GenAI APIs into real user flows), backed by a strong DSA/OOP foundation.
+
+```
+🔭 Building      → AI-integrated web apps (MERN + Gemini API)
+🌱 Sharpening    → Data Structures & Algorithms
+👯 Open to       → Full-stack / GenAI collaboration
+🎯 Looking for   → SDE / Full-Stack Developer roles
+📫 Reach me      → Kaifahmadmohd@gmail.com
+```
 
 ---
 
@@ -111,8 +121,6 @@ Palm-vein biometric payment authentication prototype focused on financial inclus
 </td></tr>
 </table>
 
-> 💡 Pin your live repositories via **Profile → Customize your pins** so they render as GitHub-native cards beneath this section.
-
 ---
 
 ## 💼 Professional Experience
@@ -144,18 +152,6 @@ Palm-vein biometric payment authentication prototype focused on financial inclus
 
 ---
 
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/themohdkaif/themohdkaif/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-<sub>An isometric, rotating-color rendering of your real contribution history — most profiles never bother setting this up.</sub>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -167,104 +163,13 @@ Palm-vein biometric payment authentication prototype focused on financial inclus
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=themohdkaif&theme=redical&bg_color=0f0c29&color=cc99ff&line=9933ff&point=facc15&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themohdkaif&theme=react-dark&bg_color=0f0c29&color=cc99ff&line=9933ff&point=facc15&hide_border=true" width="100%"/>
 
 </div>
 
----
 
-## 🐍 Live Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/themohdkaif/themohdkaif/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 😄 Daily Dev Joke (refreshes on every visit)
-
-<img src="https://readme-jokes.vercel.app/api" width="80%"/>
-
-</div>
-
----
-
-<details>
-<summary><b>⚙️ One-time setup — the two things above that make this profile genuinely rare (10 min total)</b></summary>
-
-<br/>
-
-Everything else on this page is a static badge URL — paste and done. These two sections are *actually generated from your live GitHub data* by automation, which is why almost nobody has them. Both live in the same repo: `themohdkaif/themohdkaif`.
-
-### 1. Live Contribution Snake
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: themohdkaif
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-Commit → run it once from the **Actions** tab → it creates an `output` branch with the SVG, then updates itself daily.
-
-### 2. 3D Isometric Contribution Calendar
-Create `.github/workflows/profile-3d.yml`:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.9.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: themohdkaif
-      - name: Commit & push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A
-          git commit -m "Update 3D contribution calendar" || exit 0
-          git push
-```
-Commit → run it once from the **Actions** tab → it renders SVGs into `profile-3d-contrib/` on your `main` branch, which is exactly what the image above points to. Updates daily after that.
-
-</details>
 
 ---
 
