@@ -12,9 +12,7 @@
 &nbsp;
 <a href="https://linkedin.com/in/the-mohd-kaif"><img src="https://img.shields.io/badge/LINKEDIN-0f0c29?style=for-the-badge&logo=linkedin&logoColor=cc99ff"/></a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
+<br/>
 
 </div>
 
